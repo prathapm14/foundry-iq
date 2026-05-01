@@ -1415,7 +1415,7 @@ This guide is provided under the MIT License. See [LICENSE](LICENSE) for details
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Foundry IQ Community</p>
+  <p> Made by Prathap for tech enthusiats </p>
   <p>
     <a href="#table-of-contents">Back to Top</a> •
     <a href="https://github.com/prathapm14/foundry-iq/issues">Report Issue</a> •
