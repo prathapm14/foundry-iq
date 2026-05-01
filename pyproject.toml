@@ -1,0 +1,14 @@
+[project]
+name = "foundry-iq-stubs"
+version = "0.1.0"
+description = "Educational Python stubs inspired by Foundry IQ style examples"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Foundry IQ Community"}]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
